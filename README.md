@@ -1,4 +1,4 @@
 # :package: Free Proxy List
 ### Updated every 15 minutes.
 
-- Last updated: `2023-12-28 23:55`
+- Last updated: `2023-12-29 00:10`
