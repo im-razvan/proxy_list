@@ -1,6 +1,6 @@
 # :package: Free Proxy List
 ### Updated every 15 minutes.
 
-- Last updated: `2024-06-15 23:52`
+- Last updated: `2024-06-16 00:07`
 
 :heart:
