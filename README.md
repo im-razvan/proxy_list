@@ -1,6 +1,1 @@
-# :package: Free Proxy List
-### Updated every 15 minutes.
-
-- Last updated: `2024-11-03 21:26`
-
-:heart:
+# VPS is no longer running. Thank you!
